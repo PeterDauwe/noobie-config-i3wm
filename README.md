@@ -1,1 +1,1 @@
-# bobo-wallpapers
+** noobie-config-i3wm **
